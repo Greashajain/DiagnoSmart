@@ -4,6 +4,8 @@
 
 This project is an AI-powered medical diagnosis application that helps predict the presence of critical diseases like **Heart Disease, Parkinson’s, Lung Cancer, and Hypo-Thyroidism** based on clinical input data.
 
+LIVE- https://diagnosmart.streamlit.app
+
 ## 💡 Overview
 
 Early detection of life-threatening diseases can significantly improve patient outcomes. This project aims to assist healthcare professionals and individuals by using machine learning models to analyze patient data and provide predictive insights.
